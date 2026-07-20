@@ -1,0 +1,17 @@
+.box{
+    width:400px;
+    margin:30px auto;
+    padding:20px;
+    border:2px solid black;
+    border-radius:10px;
+    text-align:left;
+    background-color:#f5f5f5;
+}
+
+h2{
+    color:blue;
+}
+
+h3{
+    color:green;
+}
